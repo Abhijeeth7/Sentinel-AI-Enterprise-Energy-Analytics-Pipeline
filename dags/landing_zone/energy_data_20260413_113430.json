@@ -1,0 +1,402 @@
+[
+    {
+        "timestamp": "2026-04-13T11:34:30.733872",
+        "device_id": "SENSOR-824",
+        "region": "APAC",
+        "kwh_usage": 404.25,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734092",
+        "device_id": "SENSOR-507",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 235.33,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734124",
+        "device_id": "SENSOR-776",
+        "region": "LATAM",
+        "kwh_usage": 185.58,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734139",
+        "device_id": "SENSOR-401",
+        "region": "APAC",
+        "kwh_usage": 167.5,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734151",
+        "device_id": "SENSOR-177",
+        "region": "APAC",
+        "kwh_usage": 377.62,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734170",
+        "device_id": "SENSOR-806",
+        "region": "APAC",
+        "kwh_usage": 228.33,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734181",
+        "device_id": "SENSOR-872",
+        "region": "EMEA",
+        "kwh_usage": 243.44,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734192",
+        "device_id": "SENSOR-900",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 310.03,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734202",
+        "device_id": "SENSOR-503",
+        "region": "APAC",
+        "kwh_usage": 291.15,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734213",
+        "device_id": "SENSOR-763",
+        "region": "APAC",
+        "kwh_usage": 165.3,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734223",
+        "device_id": "SENSOR-522",
+        "region": "LATAM",
+        "kwh_usage": 215.18,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734233",
+        "device_id": "SENSOR-852",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 166.41,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734245",
+        "device_id": "SENSOR-604",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 262.28,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734256",
+        "device_id": "SENSOR-317",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 115.35,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734267",
+        "device_id": "SENSOR-824",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 196.89,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734277",
+        "device_id": "SENSOR-147",
+        "region": "EMEA",
+        "kwh_usage": 160.98,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734288",
+        "device_id": "SENSOR-816",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 479.92,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734298",
+        "device_id": "SENSOR-984",
+        "region": "LATAM",
+        "kwh_usage": 488.4,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734308",
+        "device_id": "SENSOR-140",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 275.78,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734318",
+        "device_id": "SENSOR-566",
+        "region": "LATAM",
+        "kwh_usage": 86.61,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734328",
+        "device_id": "SENSOR-560",
+        "region": "EMEA",
+        "kwh_usage": 480.6,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734338",
+        "device_id": "SENSOR-202",
+        "region": "APAC",
+        "kwh_usage": 454.77,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734349",
+        "device_id": "SENSOR-234",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 357.47,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734359",
+        "device_id": "SENSOR-878",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 374.46,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734369",
+        "device_id": "SENSOR-697",
+        "region": "APAC",
+        "kwh_usage": 442.0,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734390",
+        "device_id": "SENSOR-672",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 457.9,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734401",
+        "device_id": "SENSOR-318",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 101.7,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734411",
+        "device_id": "SENSOR-930",
+        "region": "EMEA",
+        "kwh_usage": 251.24,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734420",
+        "device_id": "SENSOR-120",
+        "region": "APAC",
+        "kwh_usage": 140.77,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734431",
+        "device_id": "SENSOR-718",
+        "region": "APAC",
+        "kwh_usage": 448.29,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734440",
+        "device_id": "SENSOR-654",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 233.14,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734451",
+        "device_id": "SENSOR-188",
+        "region": "EMEA",
+        "kwh_usage": 100.22,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734461",
+        "device_id": "SENSOR-471",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 67.02,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734473",
+        "device_id": "SENSOR-233",
+        "region": "EMEA",
+        "kwh_usage": 158.37,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734489",
+        "device_id": "SENSOR-238",
+        "region": "APAC",
+        "kwh_usage": 335.9,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734500",
+        "device_id": "SENSOR-256",
+        "region": "EMEA",
+        "kwh_usage": 426.97,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734509",
+        "device_id": "SENSOR-627",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 271.13,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734519",
+        "device_id": "SENSOR-793",
+        "region": "EMEA",
+        "kwh_usage": 322.51,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734528",
+        "device_id": "SENSOR-712",
+        "region": "APAC",
+        "kwh_usage": 112.33,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734538",
+        "device_id": "SENSOR-565",
+        "region": "LATAM",
+        "kwh_usage": 331.67,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734548",
+        "device_id": "SENSOR-567",
+        "region": "EMEA",
+        "kwh_usage": 422.78,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734559",
+        "device_id": "SENSOR-324",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 324.16,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734569",
+        "device_id": "SENSOR-949",
+        "region": "EMEA",
+        "kwh_usage": 493.48,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734579",
+        "device_id": "SENSOR-216",
+        "region": "LATAM",
+        "kwh_usage": 279.25,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734592",
+        "device_id": "SENSOR-388",
+        "region": "LATAM",
+        "kwh_usage": 117.76,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734602",
+        "device_id": "SENSOR-807",
+        "region": "EMEA",
+        "kwh_usage": 302.4,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734612",
+        "device_id": "SENSOR-754",
+        "region": "EMEA",
+        "kwh_usage": 482.12,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734622",
+        "device_id": "SENSOR-252",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 410.0,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734632",
+        "device_id": "SENSOR-574",
+        "region": "LATAM",
+        "kwh_usage": 211.27,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    },
+    {
+        "timestamp": "2026-04-13T11:34:30.734642",
+        "device_id": "SENSOR-718",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 493.26,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE"
+    }
+]

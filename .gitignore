@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Airflow / Docker
+logs/
+plugins/
+*.db
+.pytest_cache/
+
+# Airflow
+logs/
+plugins/
+__pycache__/
+.env
+
+# dbt
+sentinel_models/target/
+sentinel_models/dbt_packages/
+sentinel_models/logs/
+sentinel_models/profiles.yml # CRITICAL: Never push this to GitHub

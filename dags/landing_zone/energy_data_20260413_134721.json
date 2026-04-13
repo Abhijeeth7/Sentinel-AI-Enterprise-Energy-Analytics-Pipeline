@@ -1,0 +1,452 @@
+[
+    {
+        "timestamp": "2026-04-13T13:47:21.684955",
+        "device_id": "7f90c5b9-158d-4fa2-8db0-7a8cb7773dc1",
+        "region": "APAC",
+        "kwh_usage": 412.85,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "05-27-2025"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685265",
+        "device_id": "fcf70db3-ba5d-473c-8d7c-903574f3a5e0",
+        "region": "EMEA",
+        "kwh_usage": 446.03,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "07-17-2022"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685336",
+        "device_id": "d9890969-cf13-40ed-8bcf-4d8bce66fcb0",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 440.47,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "11-02-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685379",
+        "device_id": "2a1d0853-406b-4364-a654-5c56562d3431",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 416.99,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "06-19-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685421",
+        "device_id": "828218ca-8aaa-43a0-9198-e1fc6bd7b1d4",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 62.23,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "05-20-2022"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685452",
+        "device_id": "656d257f-c83a-4915-8aa2-f9618502f34d",
+        "region": "LATAM",
+        "kwh_usage": 63.23,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "01-06-2026"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685481",
+        "device_id": "02a3ca41-24e7-4149-920b-d1ce9bd6eec5",
+        "region": "EMEA",
+        "kwh_usage": 346.48,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "10-13-2022"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685511",
+        "device_id": "9cab6e91-18c4-425b-8a43-ebef03620121",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 70.38,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "10-19-2024"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685539",
+        "device_id": "910d4258-fa46-4312-beb4-ab0a94592f3d",
+        "region": "LATAM",
+        "kwh_usage": 261.35,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "07-19-2022"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685568",
+        "device_id": "511f8832-828a-4dab-9439-31d1c11dfc32",
+        "region": "EMEA",
+        "kwh_usage": 280.5,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "06-20-2025"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685597",
+        "device_id": "7bcda4e2-0c35-4879-9611-ba8eefa165fe",
+        "region": "APAC",
+        "kwh_usage": 261.71,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "07-09-2025"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685626",
+        "device_id": "cf81f774-fe96-4e7f-a235-35c1d78e20e6",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 362.43,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "02-05-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685657",
+        "device_id": "76102a80-8a32-4ada-a06d-4e9127eae2cf",
+        "region": "EMEA",
+        "kwh_usage": 198.87,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "08-21-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685692",
+        "device_id": "621f9dbb-ec99-43fe-964c-aa33f0e246cc",
+        "region": "EMEA",
+        "kwh_usage": 381.46,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "07-19-2025"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685721",
+        "device_id": "62ca28f8-3c90-41a2-944c-4f2a6df21374",
+        "region": "APAC",
+        "kwh_usage": 122.5,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "07-19-2024"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685748",
+        "device_id": "79579454-2492-4d62-9bc6-8ceaff5232e6",
+        "region": "EMEA",
+        "kwh_usage": 446.96,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "04-12-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685775",
+        "device_id": "28f53958-880e-4f0b-aafd-fe565651b7f5",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 71.32,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "08-12-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685800",
+        "device_id": "ebbf6024-7de5-427a-8ea0-2a251fedfb5f",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 290.98,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "02-12-2024"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685824",
+        "device_id": "de512709-aca3-40d6-b25f-6460c4b0050a",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 129.91,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "01-02-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685848",
+        "device_id": "91d0eb61-2bb5-427f-9bc3-ff8a104158c1",
+        "region": "APAC",
+        "kwh_usage": 112.57,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "10-23-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685874",
+        "device_id": "7d4b0d05-294c-46eb-95ba-7a5628b7a7b9",
+        "region": "LATAM",
+        "kwh_usage": 490.75,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "03-13-2022"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685899",
+        "device_id": "20922433-2b68-4c16-9ebb-8dd4e46c4701",
+        "region": "APAC",
+        "kwh_usage": 106.34,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "12-13-2024"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685923",
+        "device_id": "fd50376b-88bd-45ae-8568-0bc153828099",
+        "region": "APAC",
+        "kwh_usage": 111.98,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "10-26-2024"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685947",
+        "device_id": "8f6b3951-b76b-4422-919e-5b5bc42d90b5",
+        "region": "LATAM",
+        "kwh_usage": 399.6,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "04-24-2024"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.685977",
+        "device_id": "7d3e950e-b402-444b-b6c7-97da1c725eda",
+        "region": "LATAM",
+        "kwh_usage": 95.7,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "07-16-2025"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686002",
+        "device_id": "eb235a1c-33bd-4f9b-9794-153998219f28",
+        "region": "EMEA",
+        "kwh_usage": 180.28,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "03-03-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686028",
+        "device_id": "f49634ff-d8f4-4bc7-bbc2-279d5d400071",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 130.56,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "07-07-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686053",
+        "device_id": "17f70c64-7478-45f0-8672-a8a003d3aa4d",
+        "region": "LATAM",
+        "kwh_usage": 354.2,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "03-03-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686077",
+        "device_id": "b414b24a-7638-4c2a-af84-5a8eb082dd34",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 217.85,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "06-19-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686103",
+        "device_id": "aa04c7af-fe13-439b-9ac4-0da3e3ca566a",
+        "region": "EMEA",
+        "kwh_usage": 115.62,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "03-24-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686130",
+        "device_id": "6cee7080-85db-47f9-bd98-976bcddc7495",
+        "region": "APAC",
+        "kwh_usage": 331.5,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "05-12-2022"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686156",
+        "device_id": "ce7b8c8d-f76c-4fb5-9be1-bd870344dc8e",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 227.48,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "04-12-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686182",
+        "device_id": "59c916da-1d7e-46d1-9daa-845eef9bdf5a",
+        "region": "LATAM",
+        "kwh_usage": 337.48,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "04-25-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686207",
+        "device_id": "5bf6c33c-b423-4426-b53b-bd2cb42957f7",
+        "region": "LATAM",
+        "kwh_usage": 320.61,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "09-04-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686232",
+        "device_id": "f2601f95-4484-40e5-a067-b8e7d4908943",
+        "region": "LATAM",
+        "kwh_usage": 174.58,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "11-24-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686257",
+        "device_id": "e2214381-fa08-4ed8-ae8a-39f9c1c033f9",
+        "region": "APAC",
+        "kwh_usage": 129.65,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "03-09-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686282",
+        "device_id": "a574ac2d-ff05-46af-a7e4-5fd28883c506",
+        "region": "EMEA",
+        "kwh_usage": 90.91,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "12-23-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686308",
+        "device_id": "fc1cb6f5-fa8a-4cd6-a94a-f0fd9e2c5cb0",
+        "region": "EMEA",
+        "kwh_usage": 119.64,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "03-23-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686334",
+        "device_id": "ff01f545-7956-41b7-946f-15d03ed3438c",
+        "region": "LATAM",
+        "kwh_usage": 333.59,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "10-16-2022"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686367",
+        "device_id": "06f2c4b6-d60b-42ba-9f17-6ce1bf6edcc4",
+        "region": "LATAM",
+        "kwh_usage": 210.42,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "03-26-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686392",
+        "device_id": "ecc78d86-da11-4b1d-bc44-bbccb4fdcb50",
+        "region": "EMEA",
+        "kwh_usage": 485.58,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "06-18-2021"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686417",
+        "device_id": "34e78e1c-6250-4f6e-b679-35fa21f965cc",
+        "region": "APAC",
+        "kwh_usage": 485.78,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "01-25-2026"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686442",
+        "device_id": "c4d510d1-4e3c-41fa-8061-6e91e12e9d8b",
+        "region": "EMEA",
+        "kwh_usage": 73.5,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "08-03-2022"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686470",
+        "device_id": "96953277-32fc-41be-b219-8b181529683a",
+        "region": "EMEA",
+        "kwh_usage": 403.86,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "03-02-2024"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686495",
+        "device_id": "174431bf-5817-485b-b560-eef05471827e",
+        "region": "NORTH_AMERICA",
+        "kwh_usage": 363.74,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "11-01-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686520",
+        "device_id": "571a9111-a2af-40a4-b572-6870321ec829",
+        "region": "APAC",
+        "kwh_usage": 432.93,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "02-16-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686545",
+        "device_id": "7d09a824-17ae-44fc-b639-433b82ac7014",
+        "region": "LATAM",
+        "kwh_usage": 101.05,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "10-11-2024"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686574",
+        "device_id": "63d7aef7-5362-4dfd-aec9-821fd0615c15",
+        "region": "LATAM",
+        "kwh_usage": 297.21,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "11-13-2024"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686602",
+        "device_id": "9c7b7916-8710-45ef-a972-0ccebf1cbc65",
+        "region": "EMEA",
+        "kwh_usage": 188.33,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "10-18-2023"
+    },
+    {
+        "timestamp": "2026-04-13T13:47:21.686628",
+        "device_id": "a644f6fc-6ea2-4155-97fb-ca515273bea4",
+        "region": "EMEA",
+        "kwh_usage": 96.98,
+        "carbon_tax_rate": 0.3,
+        "operational_status": "ACTIVE",
+        "event_date": "06-01-2022"
+    }
+]

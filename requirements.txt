@@ -1,0 +1,26 @@
+# --- Core Orchestration & Workflow ---
+apache-airflow==3.2.0
+apache-airflow-providers-snowflake
+apache-airflow-providers-amazon
+apache-airflow-providers-common-sql
+
+# --- Data Warehouse & Transformation ---
+snowflake-connector-python
+snowflake-sqlalchemy
+dbt-snowflake
+pandas
+numpy
+
+# --- Cloud & Storage ---
+boto3
+s3fs
+
+# --- Extraction & Scrapy Integration ---
+scrapy
+scrapy-playwright   # If you are handling dynamic JS sites
+requests
+python-dotenv
+
+# --- Data Quality & Testing ---
+pytest
+soda-core-snowflake  # Highly recommended for data quality checks

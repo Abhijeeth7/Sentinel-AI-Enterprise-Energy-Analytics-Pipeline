@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: stg_energy_data
+    description: "Cleaned and structured energy sensor data with calculated carbon tax costs."
+    columns:
+      - name: device_id
+        description: "Unique UUID for the sensor device."
+        tests:
+          - not_null
+          - unique
+
+      - name: kwh_usage
+        description: "Energy usage in kilowatt-hours."
+        tests:
+          - not_null
+          # Custom check: Ensure usage is always positive
+          - dbt_utils.accepted_range:
+              min_value: 0
+              inclusive: true
+
+      - name: event_date
+        description: "The historical date the reading was recorded."
+        tests:
+          - not_null
+
+      - name: status
+        description: "Current operational status of the sensor."
+        tests:
+          - accepted_values:
+              values: ['ACTIVE', 'INACTIVE', 'MAINTENANCE']
+      

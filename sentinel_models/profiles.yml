@@ -1,0 +1,15 @@
+sentinel_models:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      # Use just the account locator, or the full URL if needed
+      account: NPWXPHU-DEB38021
+      user: MOHANABHIJEETH
+      password: Abhijeeth@8639
+      role: ACCOUNTADMIN
+      database: SENTINEL_DB
+      warehouse: COMPUTE_WH
+      schema: ANALYTICS  # Let's use ANALYTICS to keep RAW clean
+      threads: 4
+      client_session_keep_alive: False
