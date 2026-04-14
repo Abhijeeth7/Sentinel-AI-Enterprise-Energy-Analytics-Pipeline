@@ -1,0 +1,5 @@
+region_name,manager_name,manager_email,carbon_goal_kwh
+EMEA,Mohan Bhaskar,mohan@sentinel.ai,500000
+APAC,Osman Khalid,osman@sentinel.ai,450000
+NORTH_AMERICA,Sai Nirvana,sai@sentinel.ai,700000
+LATAM,Yesu Arvind,yesu@sentinel.ai,300000
